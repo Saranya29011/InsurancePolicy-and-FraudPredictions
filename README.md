@@ -1,4 +1,4 @@
-1. **Python Installation**  
+## 1. **Python Installation**  
 - Ensure Python is installed on your system before starting the project.  
 - Download the latest version (e.g., 3.8 or your preferred version) from the [official Python website](https://www.python.org/downloads/).  
 
